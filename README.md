@@ -1,5 +1,7 @@
 ### Hi there 👋 
 I m Rishmika Sandanu. I m In MATARA. I m Student. You Can Visit My Main Github Account [RishbroPromax](https://github.com/RishbroPromax)
+<br><br>
+[![GitHub followers](https://img.shields.io/github/followers/Rishmikasandanu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Rishmikasandanu?tab=followers) <br><br>
 
 - 🔭 I’m currently working on Emo Bot Industry
 - 🌱 I’m currently learning Python , Css , Html And javaStript
@@ -9,7 +11,12 @@ I m Rishmika Sandanu. I m In MATARA. I m Student. You Can Visit My Main Github A
 - 📫 How to reach me: [@ImRishmika](https://instegram.com/ImRishmika)
 - 😄 Pronouns: Bro/He/Rishmika Sandanu
 
+
+  
+
+
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
+
 
 <!--<p align="center">
   <a href="https://github.com/Rishmikasandanu">
@@ -19,7 +26,8 @@ I m Rishmika Sandanu. I m In MATARA. I m Student. You Can Visit My Main Github A
   <a href="https://github.com/Rishmikasandanu"><img alt="Rishmika Sandanu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rishmikasandanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 <br><br>
-  # MY TOOLS AND LANG
+
+# MY TOOLS AND LANG
 
 <p align ="left">
   <br />
@@ -42,14 +50,16 @@ I m Rishmika Sandanu. I m In MATARA. I m Student. You Can Visit My Main Github A
 <p align="left">
 
 ### Bots Support Group:
-<a href="https://t.me/Emo_Bot_Support"><img src="https://img.shields.io/badge/EmoBot%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>-->
+<a href="https://t.me/Emo_Bot_Support"><img src="https://img.shields.io/badge/EmoBot%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
                                                               
 ### Social media
                                                               
 <a href="https://t.me/ImRishmika" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/imRishmika" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<br>br><br>br>
+
+  
+  
 ![VisitorCount](https://profile-counter.glitch.me/{Rishmikasandanu}/count.svg)
   
 
