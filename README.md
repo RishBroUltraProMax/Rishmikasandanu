@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I m Rishmika Sandanu. I m In MATARA. I m Student. You Can Visit My Main Github Account [RishbroPromax](https://github.com/RishbroPromax)
+
 
 <!--
 **Rishmikasandanu/Rishmikasandanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
