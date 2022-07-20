@@ -9,8 +9,6 @@ I m Rishmika Sandanu. I m In MATARA. I m Student. You Can Visit My Main Github A
 - 📫 How to reach me: [@ImRishmika](https://instegram.com/ImRishmika)
 - 😄 Pronouns: Bro/He/Rishmika Sandanu
 
-<br><center>![Profile views](https://gpvc.arturio.dev/Rishmikasandanu)
-
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 
 <!--<p align="center">
